@@ -20,24 +20,24 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![osyilmaz's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2817962)](https://github.com/JaeSeoKim/badge42)
+LIBFT [![osyilmaz's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2817962)](https://github.com/JaeSeoKim/badge42)
 
-[![osyilmaz's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2847080)](https://github.com/JaeSeoKim/badge42)
+FT_PRINTF [![osyilmaz's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2847080)](https://github.com/JaeSeoKim/badge42)
 
-[![osyilmaz's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2859509)](https://github.com/JaeSeoKim/badge42)
+GET_NEXT_LINE [![osyilmaz's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2859509)](https://github.com/JaeSeoKim/badge42)
 
-[![osyilmaz's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2896808)](https://github.com/JaeSeoKim/badge42)
+BORN2BEROOT [![osyilmaz's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2896808)](https://github.com/JaeSeoKim/badge42)
 
-[![osyilmaz's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2907215)](https://github.com/JaeSeoKim/badge42)
+MINITALK [![osyilmaz's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2907215)](https://github.com/JaeSeoKim/badge42)
 
-[![osyilmaz's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2961409)](https://github.com/JaeSeoKim/badge42)
+PUSH_SWAP [![osyilmaz's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2961409)](https://github.com/JaeSeoKim/badge42)
 
-[![osyilmaz's 42 so_long Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2976754)](https://github.com/JaeSeoKim/badge42)
+SO_LONG [![osyilmaz's 42 so_long Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2976754)](https://github.com/JaeSeoKim/badge42)
 
-[![osyilmaz's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2967292)](https://github.com/JaeSeoKim/badge42)
+EXAM RANK 02 [![osyilmaz's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/2967292)](https://github.com/JaeSeoKim/badge42)
 
-[![osyilmaz's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/3019500)](https://github.com/JaeSeoKim/badge42)
+EXAM RANK 03 [![osyilmaz's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/3019500)](https://github.com/JaeSeoKim/badge42)
 
-[![osyilmaz's 42 minishell Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/3040054)](https://github.com/JaeSeoKim/badge42)
+MINISHELL [![osyilmaz's 42 minishell Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/3040054)](https://github.com/JaeSeoKim/badge42)
 
-[![osyilmaz's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/3084117)](https://github.com/JaeSeoKim/badge42)
+PHILOSOPHERS [![osyilmaz's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl9pmwq9s00060fjwu004qnej/project/3084117)](https://github.com/JaeSeoKim/badge42)
